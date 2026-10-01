@@ -23,7 +23,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import org.jetbrains.compose.resources.painterResource
-// Adjust this import to match your generated Res class (see note below)
 import profilgalih.shared.generated.resources.Res
 import profilgalih.shared.generated.resources.profile
 
